@@ -21,5 +21,6 @@
 
 ## リンク
 ### [github](https://github.com/5418084TakashiYamakawa/playplaybaseball)  
+### [最終レポート](end.pdf)  
 ### [企画書](specs.pdf)  
 ### [仕様書](plans.pdf)  
