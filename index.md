@@ -13,9 +13,13 @@
 リザルト画面からさらに"a"を押すとタイトル画面に戻りリトライすることができます。
 
 ## ダウンロード
-### [Dawnload_zip](yakyu.zip)
+
+### [Download_zip](yakyu.zip)
+*注意* このゲームは**processingのvideoライブラリー**をダウンロードしている必要があります。  
+ダウンロードしていない場合あるいはエラーが出る場合は↓のカメラOffverを試してみてください。
+### [Download_cameraOff_zip](yakyu_cameraoff.zip)
 
 ## リンク
 ### [github](https://github.com/5418084TakashiYamakawa/playplaybaseball)  
-### [企画書](plans.pdf)  
-### [仕様書](specs.pdf)  
+### [企画書](specs.pdf)  
+### [仕様書](plans.pdf)  
